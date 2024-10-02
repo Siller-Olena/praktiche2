@@ -1,0 +1,14 @@
+C:\Users\Test\source\repos\schoolsearch\schoolsearch\bin\Debug\schoolsearch.exe.config
+C:\Users\Test\source\repos\schoolsearch\schoolsearch\bin\Debug\schoolsearch.exe
+C:\Users\Test\source\repos\schoolsearch\schoolsearch\bin\Debug\schoolsearch.pdb
+C:\Users\Test\source\repos\schoolsearch\schoolsearch\obj\Debug\schoolsearch.csproj.AssemblyReference.cache
+C:\Users\Test\source\repos\schoolsearch\schoolsearch\obj\Debug\schoolsearch.csproj.CoreCompileInputs.cache
+C:\Users\Test\source\repos\schoolsearch\schoolsearch\obj\Debug\schoolsearch.exe
+C:\Users\Test\source\repos\schoolsearch\schoolsearch\obj\Debug\schoolsearch.pdb
+C:\Users\Test\Documents\Каразина\БД\2\schoolsearch\schoolsearch\bin\Debug\schoolsearch.exe.config
+C:\Users\Test\Documents\Каразина\БД\2\schoolsearch\schoolsearch\bin\Debug\schoolsearch.exe
+C:\Users\Test\Documents\Каразина\БД\2\schoolsearch\schoolsearch\bin\Debug\schoolsearch.pdb
+C:\Users\Test\Documents\Каразина\БД\2\schoolsearch\schoolsearch\obj\Debug\schoolsearch.csproj.AssemblyReference.cache
+C:\Users\Test\Documents\Каразина\БД\2\schoolsearch\schoolsearch\obj\Debug\schoolsearch.csproj.CoreCompileInputs.cache
+C:\Users\Test\Documents\Каразина\БД\2\schoolsearch\schoolsearch\obj\Debug\schoolsearch.exe
+C:\Users\Test\Documents\Каразина\БД\2\schoolsearch\schoolsearch\obj\Debug\schoolsearch.pdb
